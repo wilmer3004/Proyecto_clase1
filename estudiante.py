@@ -41,4 +41,3 @@ class Estudiante:
     def get_semestre(self):
         return self.__semestre
 
-# Esteban god
